@@ -4,6 +4,7 @@ import ProductList from "./components/ProductList";
 import AddProduct from "./components/AddProduct";
 import UpdateProduct from "./components/UpdateProduct";
 import DeleteProduct from "./components/DeleteProduct";
+import "./App.css";
 const App = () => {
 return (
 <Router>
